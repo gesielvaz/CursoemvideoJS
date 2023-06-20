@@ -1,0 +1,8 @@
+{
+  "name": "CursoemvideoJS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gesielvaz/CursoemvideoJS.git",
+  "author": "gesiel <gesieldosanjos@mobilezone.com.py>",
+  "license": "MIT"
+}
